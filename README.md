@@ -1,9 +1,10 @@
-yo I am Hydra 👋
-I am a Aspiring Java Developer
+Hello I'm Hydra,
 
-I primary work on web applications and services using HTML and sometimes Java. My go-to stack is: MySQL, and MongoDB.
+I am an aspiring UI & Java Developer focusing on web applications and services using HTML, JavaScript, and CSS. I also have dabbled in Java, Express, React, and TypeScript. I also have worked with MySQL, MongoDB, and Redis for database management.
 
-Here is a little more about me:
+Continuously learning is an essential trait for any developer, and I like to believe I have a passion for expanding on knowledge in various areas.
 
-🌱 I’m currently learning EVERYTHING
-📫 How to reach me: HydraTM
+If you have any questions or need assistance with anything related to web development, feel free to reach out.
+
+🌱 Sincerly,
+📫 Hydra™#8533
