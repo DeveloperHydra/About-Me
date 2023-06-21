@@ -1,10 +1,3 @@
-Hello I'm Hydra,
+Hello there! I'm Hydra, a dedicated and skilled Java developer who thrives on creating scalable and efficient applications. With a keen focus on delivering exceptional results, I bring expertise in web development, specializing in HTML, CSS, JavaScript, and TypeScript. Continuously keeping up with the latest technologies and frameworks, I am committed to providing innovative solutions that make a significant impact on projects. Thank you for visiting my profile, and I am excited to contribute my abilities to meaningful endeavors.
 
-I am an aspiring UI & Java Developer focusing on web applications and services using HTML, JavaScript, and CSS. I also have dabbled in Java, Express, React, and TypeScript. I also have worked with MySQL, MongoDB, and Redis for database management.
-
-Continuously learning is an essential trait for any developer, and I like to believe I have a passion for expanding on knowledge in various areas.
-
-If you have any questions or need assistance with anything related to web development, feel free to reach out.
-
-🌱 Sincerly,
 📫 Hydra™#8533
